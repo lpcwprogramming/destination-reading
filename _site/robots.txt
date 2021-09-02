@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /destination-reading/sitemap.xml
