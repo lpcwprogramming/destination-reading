@@ -1,7 +1,7 @@
 # Site
 name: "Destination: Reading"
 title: "Destination: Reading"
-description: "test"
+description: "'I want to go to there'   -Liz Lemon"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl: /destination-reading
@@ -14,9 +14,9 @@ permalink: /:title/
 # Authors
 authors:
   leishla:
-    name: Leishla
+    name: leishla
     display_name: Leishla P. Cardona-Wilkins
-    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: a654bbcaa9458def597cc4373b8165af
     email: destinationreadingblog@gmail.com
     # web: https://www.wowthemes.net
     # twitter: https://twitter.com/wowthemesnet
